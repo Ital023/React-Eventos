@@ -1,7 +1,7 @@
-import ChildComponent from "./components/ChildComponent";
+import ParentComponent from "./components/ParentComponent";
 
 export default function App() {
   return(
-    <ChildComponent />
+    <ParentComponent />
   );
 }
