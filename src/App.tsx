@@ -1,5 +1,7 @@
+import ChildComponent from "./components/ChildComponent";
+
 export default function App() {
   return(
-    <h1>oi</h1>
+    <ChildComponent />
   );
 }
